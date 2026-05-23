@@ -75,9 +75,6 @@ Todo se define dentro de una plantilla YAML o JSON.
 
 # Arquitectura Implementada
 
-<p align="center">
-  <img src="img/arquicloud.png" width="650">
-</p>
 La infraestructura creada contiene:
 
 - 1 VPC
@@ -288,25 +285,36 @@ https://github.com/usuario/repositorio
 
 ## Pila CREATE_COMPLETE
 
-Agregar captura de pantalla.
+<p align="center">
+  <img src="img/complete.png" width="650">
+</p>
 
 ---
 
 ## Instancias EC2
 
-Agregar captura de pantalla.
+<p align="center">
+  <img src="img/stop1i.png" width="650">
+</p>
+<p align="center">
+  <img src="img/ic2.png" width="650">
+</p>
 
 ---
 
 ## Sitio Web Funcionando
 
-Agregar captura de pantalla.
+<p align="center">
+  <img src="img/load1.png" width="650">
+</p>
 
 ---
 
 ## CloudFormation Designer
 
-Agregar captura de pantalla.
+<p align="center">
+  <img src="img/arquicloud.png" width="650">
+</p>
 
 ---
 
